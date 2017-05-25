@@ -1,2 +1,4 @@
 name: Kevin, 13515138
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
 description: This is introduction of my page
